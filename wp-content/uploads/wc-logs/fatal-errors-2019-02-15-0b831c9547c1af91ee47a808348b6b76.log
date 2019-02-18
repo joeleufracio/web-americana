@@ -1,0 +1,6 @@
+2019-02-15T04:36:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-admin\includes\user.php en la línea 16
+
+2019-02-15T15:04:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-menus.php en la línea 11
+
+2019-02-15T20:15:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\themes\electro\inc\widgets\class-electro-products-carousel-widget.php en la línea 12
+

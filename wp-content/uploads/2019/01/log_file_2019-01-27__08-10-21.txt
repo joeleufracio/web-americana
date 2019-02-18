@@ -1,0 +1,867 @@
+
+---Downloaded files---
+The import files for: Electro were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/americana
+Data file = C:\xampp\htdocs\americana/wp-content/themes/electro/assets/dummy-data/dummy-data.xml
+Widget file = C:\xampp\htdocs\americana/wp-content/themes/electro/assets/dummy-data/widgets.wie
+Customizer file = not defined!
+Redux files:
+electro_options -> C:\xampp\htdocs\americana/wp-content/themes/electro/assets/dummy-data/redux-options.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_brands Acer
+[WARNING] Failed to import pa_brands Apple
+[WARNING] Failed to import pa_brands Asus
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Black Leather
+[WARNING] Failed to import pa_color Black Leather
+[WARNING] Failed to import pa_color Black with Red
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Champagne
+[WARNING] Failed to import pa_color Charcoal
+[WARNING] Failed to import pa_brands Dell
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fast
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Gaming
+[WARNING] Failed to import pa_brands Gionee
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_brands HP
+[WARNING] Failed to import pa_brands HTC
+[WARNING] Failed to import pa_brands IBM
+[WARNING] Failed to import pa_brands Lenova
+[WARNING] Failed to import pa_brands LG
+[WARNING] Failed to import pa_color Light Brown Leather
+[WARNING] Failed to import pa_color Light Brown Leather
+[WARNING] Failed to import pa_color Lime
+[WARNING] Failed to import pa_color Matte Black
+[WARNING] Failed to import pa_color Matte Black
+[WARNING] Failed to import pa_color Metallic-sky
+[WARNING] Failed to import pa_brands Micromax
+[WARNING] Failed to import pa_brands Microsoft
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_brands Samsung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_color Snarkitecture
+[WARNING] Failed to import pa_brands Sony
+[WARNING] Failed to import pa_color Spacegrey
+[WARNING] Failed to import product_tag Strong
+[WARNING] Failed to import pa_color titanium
+[WARNING] Failed to import pa_brands Toshiba
+[WARNING] Failed to import pa_color Turquoise
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color White with Gold
+[WARNING] Failed to import pa_brands Xiaomi
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat 12.3 inch
+[WARNING] Failed to import product_cat 15 inch
+[WARNING] Failed to import product_cat 17 inch
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Cameras &amp; Photography
+[WARNING] Failed to import product_cat Car Electronic &amp; GPS
+[WARNING] Failed to import product_cat Cases
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Computer Components
+[WARNING] Failed to import product_cat Desktops
+[WARNING] Failed to import product_cat Ending Offers
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gadgets &amp; Accesories
+[WARNING] Failed to import product_cat Gadgets &amp; Accesories
+[WARNING] Failed to import product_cat GPS &amp; Navi
+[WARNING] Failed to import product_cat Headphone Accessories
+[WARNING] Failed to import product_cat Headphone Cases
+[WARNING] Failed to import product_cat Headphones
+[WARNING] Failed to import product_cat Home Entertainment
+[WARNING] Failed to import product_cat Home Theatres
+[WARNING] Failed to import product_cat Kids' Headphones
+[WARNING] Failed to import product_cat Laptops &amp; Computers
+[WARNING] Failed to import product_cat Mac Computers
+[WARNING] Failed to import product_cat Monitors
+[WARNING] Failed to import product_cat Networking
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_cat Office Supplies
+[WARNING] Failed to import product_cat Over-Ear and On-Ear
+[WARNING] Failed to import product_cat PC Gaming Headsets
+[WARNING] Failed to import product_cat Pendrives
+[WARNING] Failed to import product_cat Peripherals
+[WARNING] Failed to import product_cat Photo Cameras
+[WARNING] Failed to import product_cat Photo Cameras
+[WARNING] Failed to import product_cat Power Banks
+[WARNING] Failed to import product_cat Printers &amp; Ink
+[WARNING] Failed to import product_cat Pro &amp; DJ Headphones
+[WARNING] Failed to import product_cat Projectors
+[WARNING] Failed to import product_cat Refurbished Headphones
+[WARNING] Failed to import product_cat Refurbished Headphones
+[WARNING] Failed to import product_cat Refurbished Laptops
+[WARNING] Failed to import product_cat Servers
+[WARNING] Failed to import product_cat Smart Phones &amp; Tablets
+[WARNING] Failed to import product_cat Smartphones
+[WARNING] Failed to import product_cat Smartphones &amp; Tablets
+[WARNING] Failed to import product_cat Smartphones &amp; Tablets
+[WARNING] Failed to import product_cat Smartwatches
+[WARNING] Failed to import product_cat Software
+[WARNING] Failed to import product_cat Software
+[WARNING] Failed to import product_cat Speakers
+[WARNING] Failed to import product_cat Tablets
+[WARNING] Failed to import product_cat TV &amp; Audio
+[WARNING] Failed to import product_cat TVs
+[WARNING] Failed to import product_cat Ultrabooks
+[WARNING] Failed to import product_cat Unlocked Phone
+[WARNING] Failed to import product_cat Video Cameras
+[WARNING] Failed to import product_cat Video Games &amp; Consoles
+[WARNING] Failed to import product_cat Video Games &amp; Consoles
+[WARNING] Failed to import product_cat Waterproof Headphones
+[WARNING] Failed to import product_cat Wearables
+[WARNING] Failed to import product_cat Wireless and Bluetooth
+[WARNING] Failed to import product_cat Xbox
+[WARNING] Failed to import product_cat 3D Tvs
+[WARNING] Failed to import product_cat 4G LTE Smartphone
+[WARNING] Failed to import product_cat 4k Ultra HD TVs
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Action Games
+[WARNING] Failed to import product_cat All in One
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Audio Speakers
+[WARNING] Failed to import product_cat Blue-ray Players
+[WARNING] Failed to import product_cat Cables
+[WARNING] Failed to import product_cat Cameras
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Computer Accessories
+[WARNING] Failed to import product_cat Computer Cases
+[WARNING] Failed to import product_cat Computer Monitors
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_cat Covers
+[WARNING] Failed to import product_cat Curved TVs
+[WARNING] Failed to import product_cat Desktop Computers
+[WARNING] Failed to import product_cat Desktop PCs &amp; Laptops
+[WARNING] Failed to import product_cat Desktop PCs &amp; Laptops
+[WARNING] Failed to import product_cat DVD Players
+[WARNING] Failed to import product_cat Earbuds and In-ear
+[WARNING] Failed to import product_cat Featured Phones
+[WARNING] Failed to import product_cat Featured Tablets
+[WARNING] Failed to import product_cat Game Consoles
+[WARNING] Failed to import product_cat Gaming
+[WARNING] Failed to import product_cat Holders
+[WARNING] Failed to import product_cat Home &amp; Audio Enternteinment
+[WARNING] Failed to import product_cat Home &amp; Audio Enternteinment
+[WARNING] Failed to import product_cat Laptops
+[WARNING] Failed to import product_cat LED TVs
+[WARNING] Failed to import product_cat Mobile Phones
+[WARNING] Failed to import product_cat Mobiles Accesories
+[WARNING] Failed to import product_cat OLED TVs
+[WARNING] Failed to import product_cat Portable Audio
+[WARNING] Failed to import product_cat Powerbanks
+[WARNING] Failed to import product_cat Powerbanks
+[WARNING] Failed to import product_cat Printers
+[WARNING] Failed to import product_cat Racing Games
+[WARNING] Failed to import product_cat Smart TVs
+[WARNING] Failed to import product_cat Station Consoles
+[WARNING] Failed to import product_cat Tablet Accesories
+[WARNING] Failed to import product_cat Tablet Accessories
+[WARNING] Failed to import product_cat Tablet PCs
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_brands Acer
+[WARNING] Failed to import pa_brands Apple
+[WARNING] Failed to import pa_brands Asus
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Black Leather
+[WARNING] Failed to import pa_color Black Leather
+[WARNING] Failed to import pa_color Black with Red
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Champagne
+[WARNING] Failed to import pa_color Charcoal
+[WARNING] Failed to import pa_brands Dell
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fast
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Gaming
+[WARNING] Failed to import pa_brands Gionee
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_brands HP
+[WARNING] Failed to import pa_brands HTC
+[WARNING] Failed to import pa_brands IBM
+[WARNING] Failed to import pa_brands Lenova
+[WARNING] Failed to import pa_brands LG
+[WARNING] Failed to import pa_color Light Brown Leather
+[WARNING] Failed to import pa_color Light Brown Leather
+[WARNING] Failed to import pa_color Lime
+[WARNING] Failed to import pa_color Matte Black
+[WARNING] Failed to import pa_color Matte Black
+[WARNING] Failed to import pa_color Metallic-sky
+[WARNING] Failed to import pa_brands Micromax
+[WARNING] Failed to import pa_brands Microsoft
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_brands Samsung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_color Snarkitecture
+[WARNING] Failed to import pa_brands Sony
+[WARNING] Failed to import pa_color Spacegrey
+[WARNING] Failed to import product_tag Strong
+[WARNING] Failed to import pa_color titanium
+[WARNING] Failed to import pa_brands Toshiba
+[WARNING] Failed to import pa_color Turquoise
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color White with Gold
+[WARNING] Failed to import pa_brands Xiaomi
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat 12.3 inch
+[WARNING] Failed to import product_cat 15 inch
+[WARNING] Failed to import product_cat 17 inch
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Cameras &amp; Photography
+[WARNING] Failed to import product_cat Car Electronic &amp; GPS
+[WARNING] Failed to import product_cat Cases
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Computer Components
+[WARNING] Failed to import product_cat Desktops
+[WARNING] Failed to import product_cat Ending Offers
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gadgets &amp; Accesories
+[WARNING] Failed to import product_cat Gadgets &amp; Accesories
+[WARNING] Failed to import product_cat GPS &amp; Navi
+[WARNING] Failed to import product_cat Headphone Accessories
+[WARNING] Failed to import product_cat Headphone Cases
+[WARNING] Failed to import product_cat Headphones
+[WARNING] Failed to import product_cat Home Entertainment
+[WARNING] Failed to import product_cat Home Theatres
+[WARNING] Failed to import product_cat Kids' Headphones
+[WARNING] Failed to import product_cat Laptops &amp; Computers
+[WARNING] Failed to import product_cat Mac Computers
+[WARNING] Failed to import product_cat Monitors
+[WARNING] Failed to import product_cat Networking
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_cat Office Supplies
+[WARNING] Failed to import product_cat Over-Ear and On-Ear
+[WARNING] Failed to import product_cat PC Gaming Headsets
+[WARNING] Failed to import product_cat Pendrives
+[WARNING] Failed to import product_cat Peripherals
+[WARNING] Failed to import product_cat Photo Cameras
+[WARNING] Failed to import product_cat Photo Cameras
+[WARNING] Failed to import product_cat Power Banks
+[WARNING] Failed to import product_cat Printers &amp; Ink
+[WARNING] Failed to import product_cat Pro &amp; DJ Headphones
+[WARNING] Failed to import product_cat Projectors
+[WARNING] Failed to import product_cat Refurbished Headphones
+[WARNING] Failed to import product_cat Refurbished Headphones
+[WARNING] Failed to import product_cat Refurbished Laptops
+[WARNING] Failed to import product_cat Servers
+[WARNING] Failed to import product_cat Smart Phones &amp; Tablets
+[WARNING] Failed to import product_cat Smartphones
+[WARNING] Failed to import product_cat Smartphones &amp; Tablets
+[WARNING] Failed to import product_cat Smartphones &amp; Tablets
+[WARNING] Failed to import product_cat Smartwatches
+[WARNING] Failed to import product_cat Software
+[WARNING] Failed to import product_cat Software
+[WARNING] Failed to import product_cat Speakers
+[WARNING] Failed to import product_cat Tablets
+[WARNING] Failed to import product_cat TV &amp; Audio
+[WARNING] Failed to import product_cat TVs
+[WARNING] Failed to import product_cat Ultrabooks
+[WARNING] Failed to import product_cat Unlocked Phone
+[WARNING] Failed to import product_cat Video Cameras
+[WARNING] Failed to import product_cat Video Games &amp; Consoles
+[WARNING] Failed to import product_cat Video Games &amp; Consoles
+[WARNING] Failed to import product_cat Waterproof Headphones
+[WARNING] Failed to import product_cat Wearables
+[WARNING] Failed to import product_cat Wireless and Bluetooth
+[WARNING] Failed to import product_cat Xbox
+[WARNING] Failed to import product_cat 3D Tvs
+[WARNING] Failed to import product_cat 4G LTE Smartphone
+[WARNING] Failed to import product_cat 4k Ultra HD TVs
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Action Games
+[WARNING] Failed to import product_cat All in One
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Audio Speakers
+[WARNING] Failed to import product_cat Blue-ray Players
+[WARNING] Failed to import product_cat Cables
+[WARNING] Failed to import product_cat Cameras
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Computer Accessories
+[WARNING] Failed to import product_cat Computer Cases
+[WARNING] Failed to import product_cat Computer Monitors
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_cat Covers
+[WARNING] Failed to import product_cat Curved TVs
+[WARNING] Failed to import product_cat Desktop Computers
+[WARNING] Failed to import product_cat Desktop PCs &amp; Laptops
+[WARNING] Failed to import product_cat Desktop PCs &amp; Laptops
+[WARNING] Failed to import product_cat DVD Players
+[WARNING] Failed to import product_cat Earbuds and In-ear
+[WARNING] Failed to import product_cat Featured Phones
+[WARNING] Failed to import product_cat Featured Tablets
+[WARNING] Failed to import product_cat Game Consoles
+[WARNING] Failed to import product_cat Gaming
+[WARNING] Failed to import product_cat Holders
+[WARNING] Failed to import product_cat Home &amp; Audio Enternteinment
+[WARNING] Failed to import product_cat Home &amp; Audio Enternteinment
+[WARNING] Failed to import product_cat Laptops
+[WARNING] Failed to import product_cat LED TVs
+[WARNING] Failed to import product_cat Mobile Phones
+[WARNING] Failed to import product_cat Mobiles Accesories
+[WARNING] Failed to import product_cat OLED TVs
+[WARNING] Failed to import product_cat Portable Audio
+[WARNING] Failed to import product_cat Powerbanks
+[WARNING] Failed to import product_cat Powerbanks
+[WARNING] Failed to import product_cat Printers
+[WARNING] Failed to import product_cat Racing Games
+[WARNING] Failed to import product_cat Smart TVs
+[WARNING] Failed to import product_cat Station Consoles
+[WARNING] Failed to import product_cat Tablet Accesories
+[WARNING] Failed to import product_cat Tablet Accessories
+[WARNING] Failed to import product_cat Tablet PCs
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_brands Acer
+[WARNING] Failed to import pa_brands Apple
+[WARNING] Failed to import pa_brands Asus
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Black Leather
+[WARNING] Failed to import pa_color Black Leather
+[WARNING] Failed to import pa_color Black with Red
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Champagne
+[WARNING] Failed to import pa_color Charcoal
+[WARNING] Failed to import pa_brands Dell
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fast
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Gaming
+[WARNING] Failed to import pa_brands Gionee
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_brands HP
+[WARNING] Failed to import pa_brands HTC
+[WARNING] Failed to import pa_brands IBM
+[WARNING] Failed to import pa_brands Lenova
+[WARNING] Failed to import pa_brands LG
+[WARNING] Failed to import pa_color Light Brown Leather
+[WARNING] Failed to import pa_color Light Brown Leather
+[WARNING] Failed to import pa_color Lime
+[WARNING] Failed to import pa_color Matte Black
+[WARNING] Failed to import pa_color Matte Black
+[WARNING] Failed to import pa_color Metallic-sky
+[WARNING] Failed to import pa_brands Micromax
+[WARNING] Failed to import pa_brands Microsoft
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_brands Samsung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_color Snarkitecture
+[WARNING] Failed to import pa_brands Sony
+[WARNING] Failed to import pa_color Spacegrey
+[WARNING] Failed to import product_tag Strong
+[WARNING] Failed to import pa_color titanium
+[WARNING] Failed to import pa_brands Toshiba
+[WARNING] Failed to import pa_color Turquoise
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color White with Gold
+[WARNING] Failed to import pa_brands Xiaomi
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat 12.3 inch
+[WARNING] Failed to import product_cat 15 inch
+[WARNING] Failed to import product_cat 17 inch
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Cameras &amp; Photography
+[WARNING] Failed to import product_cat Car Electronic &amp; GPS
+[WARNING] Failed to import product_cat Cases
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Computer Components
+[WARNING] Failed to import product_cat Desktops
+[WARNING] Failed to import product_cat Ending Offers
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gadgets &amp; Accesories
+[WARNING] Failed to import product_cat Gadgets &amp; Accesories
+[WARNING] Failed to import product_cat GPS &amp; Navi
+[WARNING] Failed to import product_cat Headphone Accessories
+[WARNING] Failed to import product_cat Headphone Cases
+[WARNING] Failed to import product_cat Headphones
+[WARNING] Failed to import product_cat Home Entertainment
+[WARNING] Failed to import product_cat Home Theatres
+[WARNING] Failed to import product_cat Kids' Headphones
+[WARNING] Failed to import product_cat Laptops &amp; Computers
+[WARNING] Failed to import product_cat Mac Computers
+[WARNING] Failed to import product_cat Monitors
+[WARNING] Failed to import product_cat Networking
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_cat Office Supplies
+[WARNING] Failed to import product_cat Over-Ear and On-Ear
+[WARNING] Failed to import product_cat PC Gaming Headsets
+[WARNING] Failed to import product_cat Pendrives
+[WARNING] Failed to import product_cat Peripherals
+[WARNING] Failed to import product_cat Photo Cameras
+[WARNING] Failed to import product_cat Photo Cameras
+[WARNING] Failed to import product_cat Power Banks
+[WARNING] Failed to import product_cat Printers &amp; Ink
+[WARNING] Failed to import product_cat Pro &amp; DJ Headphones
+[WARNING] Failed to import product_cat Projectors
+[WARNING] Failed to import product_cat Refurbished Headphones
+[WARNING] Failed to import product_cat Refurbished Headphones
+[WARNING] Failed to import product_cat Refurbished Laptops
+[WARNING] Failed to import product_cat Servers
+[WARNING] Failed to import product_cat Smart Phones &amp; Tablets
+[WARNING] Failed to import product_cat Smartphones
+[WARNING] Failed to import product_cat Smartphones &amp; Tablets
+[WARNING] Failed to import product_cat Smartphones &amp; Tablets
+[WARNING] Failed to import product_cat Smartwatches
+[WARNING] Failed to import product_cat Software
+[WARNING] Failed to import product_cat Software
+[WARNING] Failed to import product_cat Speakers
+[WARNING] Failed to import product_cat Tablets
+[WARNING] Failed to import product_cat TV &amp; Audio
+[WARNING] Failed to import product_cat TVs
+[WARNING] Failed to import product_cat Ultrabooks
+[WARNING] Failed to import product_cat Unlocked Phone
+[WARNING] Failed to import product_cat Video Cameras
+[WARNING] Failed to import product_cat Video Games &amp; Consoles
+[WARNING] Failed to import product_cat Video Games &amp; Consoles
+[WARNING] Failed to import product_cat Waterproof Headphones
+[WARNING] Failed to import product_cat Wearables
+[WARNING] Failed to import product_cat Wireless and Bluetooth
+[WARNING] Failed to import product_cat Xbox
+[WARNING] Failed to import product_cat 3D Tvs
+[WARNING] Failed to import product_cat 4G LTE Smartphone
+[WARNING] Failed to import product_cat 4k Ultra HD TVs
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Action Games
+[WARNING] Failed to import product_cat All in One
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Audio Speakers
+[WARNING] Failed to import product_cat Blue-ray Players
+[WARNING] Failed to import product_cat Cables
+[WARNING] Failed to import product_cat Cameras
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Computer Accessories
+[WARNING] Failed to import product_cat Computer Cases
+[WARNING] Failed to import product_cat Computer Monitors
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_cat Covers
+[WARNING] Failed to import product_cat Curved TVs
+[WARNING] Failed to import product_cat Desktop Computers
+[WARNING] Failed to import product_cat Desktop PCs &amp; Laptops
+[WARNING] Failed to import product_cat Desktop PCs &amp; Laptops
+[WARNING] Failed to import product_cat DVD Players
+[WARNING] Failed to import product_cat Earbuds and In-ear
+[WARNING] Failed to import product_cat Featured Phones
+[WARNING] Failed to import product_cat Featured Tablets
+[WARNING] Failed to import product_cat Game Consoles
+[WARNING] Failed to import product_cat Gaming
+[WARNING] Failed to import product_cat Holders
+[WARNING] Failed to import product_cat Home &amp; Audio Enternteinment
+[WARNING] Failed to import product_cat Home &amp; Audio Enternteinment
+[WARNING] Failed to import product_cat Laptops
+[WARNING] Failed to import product_cat LED TVs
+[WARNING] Failed to import product_cat Mobile Phones
+[WARNING] Failed to import product_cat Mobiles Accesories
+[WARNING] Failed to import product_cat OLED TVs
+[WARNING] Failed to import product_cat Portable Audio
+[WARNING] Failed to import product_cat Powerbanks
+[WARNING] Failed to import product_cat Powerbanks
+[WARNING] Failed to import product_cat Printers
+[WARNING] Failed to import product_cat Racing Games
+[WARNING] Failed to import product_cat Smart TVs
+[WARNING] Failed to import product_cat Station Consoles
+[WARNING] Failed to import product_cat Tablet Accesories
+[WARNING] Failed to import product_cat Tablet Accessories
+[WARNING] Failed to import product_cat Tablet PCs
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_brands Acer
+[WARNING] Failed to import pa_brands Apple
+[WARNING] Failed to import pa_brands Asus
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Black Leather
+[WARNING] Failed to import pa_color Black Leather
+[WARNING] Failed to import pa_color Black with Red
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Champagne
+[WARNING] Failed to import pa_color Charcoal
+[WARNING] Failed to import pa_brands Dell
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fast
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Gaming
+[WARNING] Failed to import pa_brands Gionee
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_brands HP
+[WARNING] Failed to import pa_brands HTC
+[WARNING] Failed to import pa_brands IBM
+[WARNING] Failed to import pa_brands Lenova
+[WARNING] Failed to import pa_brands LG
+[WARNING] Failed to import pa_color Light Brown Leather
+[WARNING] Failed to import pa_color Light Brown Leather
+[WARNING] Failed to import pa_color Lime
+[WARNING] Failed to import pa_color Matte Black
+[WARNING] Failed to import pa_color Matte Black
+[WARNING] Failed to import pa_color Metallic-sky
+[WARNING] Failed to import pa_brands Micromax
+[WARNING] Failed to import pa_brands Microsoft
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_brands Samsung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_color Snarkitecture
+[WARNING] Failed to import pa_brands Sony
+[WARNING] Failed to import pa_color Spacegrey
+[WARNING] Failed to import product_tag Strong
+[WARNING] Failed to import pa_color titanium
+[WARNING] Failed to import pa_brands Toshiba
+[WARNING] Failed to import pa_color Turquoise
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color White with Gold
+[WARNING] Failed to import pa_brands Xiaomi
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat 12.3 inch
+[WARNING] Failed to import product_cat 15 inch
+[WARNING] Failed to import product_cat 17 inch
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Cameras &amp; Photography
+[WARNING] Failed to import product_cat Car Electronic &amp; GPS
+[WARNING] Failed to import product_cat Cases
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Computer Components
+[WARNING] Failed to import product_cat Desktops
+[WARNING] Failed to import product_cat Ending Offers
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gadgets &amp; Accesories
+[WARNING] Failed to import product_cat Gadgets &amp; Accesories
+[WARNING] Failed to import product_cat GPS &amp; Navi
+[WARNING] Failed to import product_cat Headphone Accessories
+[WARNING] Failed to import product_cat Headphone Cases
+[WARNING] Failed to import product_cat Headphones
+[WARNING] Failed to import product_cat Home Entertainment
+[WARNING] Failed to import product_cat Home Theatres
+[WARNING] Failed to import product_cat Kids' Headphones
+[WARNING] Failed to import product_cat Laptops &amp; Computers
+[WARNING] Failed to import product_cat Mac Computers
+[WARNING] Failed to import product_cat Monitors
+[WARNING] Failed to import product_cat Networking
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_cat Office Supplies
+[WARNING] Failed to import product_cat Over-Ear and On-Ear
+[WARNING] Failed to import product_cat PC Gaming Headsets
+[WARNING] Failed to import product_cat Pendrives
+[WARNING] Failed to import product_cat Peripherals
+[WARNING] Failed to import product_cat Photo Cameras
+[WARNING] Failed to import product_cat Photo Cameras
+[WARNING] Failed to import product_cat Power Banks
+[WARNING] Failed to import product_cat Printers &amp; Ink
+[WARNING] Failed to import product_cat Pro &amp; DJ Headphones
+[WARNING] Failed to import product_cat Projectors
+[WARNING] Failed to import product_cat Refurbished Headphones
+[WARNING] Failed to import product_cat Refurbished Headphones
+[WARNING] Failed to import product_cat Refurbished Laptops
+[WARNING] Failed to import product_cat Servers
+[WARNING] Failed to import product_cat Smart Phones &amp; Tablets
+[WARNING] Failed to import product_cat Smartphones
+[WARNING] Failed to import product_cat Smartphones &amp; Tablets
+[WARNING] Failed to import product_cat Smartphones &amp; Tablets
+[WARNING] Failed to import product_cat Smartwatches
+[WARNING] Failed to import product_cat Software
+[WARNING] Failed to import product_cat Software
+[WARNING] Failed to import product_cat Speakers
+[WARNING] Failed to import product_cat Tablets
+[WARNING] Failed to import product_cat TV &amp; Audio
+[WARNING] Failed to import product_cat TVs
+[WARNING] Failed to import product_cat Ultrabooks
+[WARNING] Failed to import product_cat Unlocked Phone
+[WARNING] Failed to import product_cat Video Cameras
+[WARNING] Failed to import product_cat Video Games &amp; Consoles
+[WARNING] Failed to import product_cat Video Games &amp; Consoles
+[WARNING] Failed to import product_cat Waterproof Headphones
+[WARNING] Failed to import product_cat Wearables
+[WARNING] Failed to import product_cat Wireless and Bluetooth
+[WARNING] Failed to import product_cat Xbox
+[WARNING] Failed to import product_cat 3D Tvs
+[WARNING] Failed to import product_cat 4G LTE Smartphone
+[WARNING] Failed to import product_cat 4k Ultra HD TVs
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Action Games
+[WARNING] Failed to import product_cat All in One
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Audio Speakers
+[WARNING] Failed to import product_cat Blue-ray Players
+[WARNING] Failed to import product_cat Cables
+[WARNING] Failed to import product_cat Cameras
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Computer Accessories
+[WARNING] Failed to import product_cat Computer Cases
+[WARNING] Failed to import product_cat Computer Monitors
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_cat Covers
+[WARNING] Failed to import product_cat Curved TVs
+[WARNING] Failed to import product_cat Desktop Computers
+[WARNING] Failed to import product_cat Desktop PCs &amp; Laptops
+[WARNING] Failed to import product_cat Desktop PCs &amp; Laptops
+[WARNING] Failed to import product_cat DVD Players
+[WARNING] Failed to import product_cat Earbuds and In-ear
+[WARNING] Failed to import product_cat Featured Phones
+[WARNING] Failed to import product_cat Featured Tablets
+[WARNING] Failed to import product_cat Game Consoles
+[WARNING] Failed to import product_cat Gaming
+[WARNING] Failed to import product_cat Holders
+[WARNING] Failed to import product_cat Home &amp; Audio Enternteinment
+[WARNING] Failed to import product_cat Home &amp; Audio Enternteinment
+[WARNING] Failed to import product_cat Laptops
+[WARNING] Failed to import product_cat LED TVs
+[WARNING] Failed to import product_cat Mobile Phones
+[WARNING] Failed to import product_cat Mobiles Accesories
+[WARNING] Failed to import product_cat OLED TVs
+[WARNING] Failed to import product_cat Portable Audio
+[WARNING] Failed to import product_cat Powerbanks
+[WARNING] Failed to import product_cat Powerbanks
+[WARNING] Failed to import product_cat Printers
+[WARNING] Failed to import product_cat Racing Games
+[WARNING] Failed to import product_cat Smart TVs
+[WARNING] Failed to import product_cat Station Consoles
+[WARNING] Failed to import product_cat Tablet Accesories
+[WARNING] Failed to import product_cat Tablet Accessories
+[WARNING] Failed to import product_cat Tablet PCs
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_brands Acer
+[WARNING] Failed to import pa_brands Apple
+[WARNING] Failed to import pa_brands Asus
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Black Leather
+[WARNING] Failed to import pa_color Black Leather
+[WARNING] Failed to import pa_color Black with Red
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import pa_color Champagne
+[WARNING] Failed to import pa_color Charcoal
+[WARNING] Failed to import pa_brands Dell
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag Fast
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Gaming
+[WARNING] Failed to import pa_brands Gionee
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_brands HP
+[WARNING] Failed to import pa_brands HTC
+[WARNING] Failed to import pa_brands IBM
+[WARNING] Failed to import pa_brands Lenova
+[WARNING] Failed to import pa_brands LG
+[WARNING] Failed to import pa_color Light Brown Leather
+[WARNING] Failed to import pa_color Light Brown Leather
+[WARNING] Failed to import pa_color Lime
+[WARNING] Failed to import pa_color Matte Black
+[WARNING] Failed to import pa_color Matte Black
+[WARNING] Failed to import pa_color Metallic-sky
+[WARNING] Failed to import pa_brands Micromax
+[WARNING] Failed to import pa_brands Microsoft
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_brands Samsung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_color Snarkitecture
+[WARNING] Failed to import pa_brands Sony
+[WARNING] Failed to import pa_color Spacegrey
+[WARNING] Failed to import product_tag Strong
+[WARNING] Failed to import pa_color titanium
+[WARNING] Failed to import pa_brands Toshiba
+[WARNING] Failed to import pa_color Turquoise
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color White with Gold
+[WARNING] Failed to import pa_brands Xiaomi
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat 12.3 inch
+[WARNING] Failed to import product_cat 15 inch
+[WARNING] Failed to import product_cat 17 inch
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Cameras &amp; Photography
+[WARNING] Failed to import product_cat Car Electronic &amp; GPS
+[WARNING] Failed to import product_cat Cases
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Computer Components
+[WARNING] Failed to import product_cat Desktops
+[WARNING] Failed to import product_cat Ending Offers
+[WARNING] Failed to import product_cat Gadgets
+[WARNING] Failed to import product_cat Gadgets &amp; Accesories
+[WARNING] Failed to import product_cat Gadgets &amp; Accesories
+[WARNING] Failed to import product_cat GPS &amp; Navi
+[WARNING] Failed to import product_cat Headphone Accessories
+[WARNING] Failed to import product_cat Headphone Cases
+[WARNING] Failed to import product_cat Headphones
+[WARNING] Failed to import product_cat Home Entertainment
+[WARNING] Failed to import product_cat Home Theatres
+[WARNING] Failed to import product_cat Kids' Headphones
+[WARNING] Failed to import product_cat Laptops &amp; Computers
+[WARNING] Failed to import product_cat Mac Computers
+[WARNING] Failed to import product_cat Monitors
+[WARNING] Failed to import product_cat Networking
+[WARNING] Failed to import product_cat Notebooks
+[WARNING] Failed to import product_cat Office Supplies
+[WARNING] Failed to import product_cat Over-Ear and On-Ear
+[WARNING] Failed to import product_cat PC Gaming Headsets
+[WARNING] Failed to import product_cat Pendrives
+[WARNING] Failed to import product_cat Peripherals
+[WARNING] Failed to import product_cat Photo Cameras
+[WARNING] Failed to import product_cat Photo Cameras
+[WARNING] Failed to import product_cat Power Banks
+[WARNING] Failed to import product_cat Printers &amp; Ink
+[WARNING] Failed to import product_cat Pro &amp; DJ Headphones
+[WARNING] Failed to import product_cat Projectors
+[WARNING] Failed to import product_cat Refurbished Headphones
+[WARNING] Failed to import product_cat Refurbished Headphones
+[WARNING] Failed to import product_cat Refurbished Laptops
+[WARNING] Failed to import product_cat Servers
+[WARNING] Failed to import product_cat Smart Phones &amp; Tablets
+[WARNING] Failed to import product_cat Smartphones
+[WARNING] Failed to import product_cat Smartphones &amp; Tablets
+[WARNING] Failed to import product_cat Smartphones &amp; Tablets
+[WARNING] Failed to import product_cat Smartwatches
+[WARNING] Failed to import product_cat Software
+[WARNING] Failed to import product_cat Software
+[WARNING] Failed to import product_cat Speakers
+[WARNING] Failed to import product_cat Tablets
+[WARNING] Failed to import product_cat TV &amp; Audio
+[WARNING] Failed to import product_cat TVs
+[WARNING] Failed to import product_cat Ultrabooks
+[WARNING] Failed to import product_cat Unlocked Phone
+[WARNING] Failed to import product_cat Video Cameras
+[WARNING] Failed to import product_cat Video Games &amp; Consoles
+[WARNING] Failed to import product_cat Video Games &amp; Consoles
+[WARNING] Failed to import product_cat Waterproof Headphones
+[WARNING] Failed to import product_cat Wearables
+[WARNING] Failed to import product_cat Wireless and Bluetooth
+[WARNING] Failed to import product_cat Xbox
+[WARNING] Failed to import product_cat 3D Tvs
+[WARNING] Failed to import product_cat 4G LTE Smartphone
+[WARNING] Failed to import product_cat 4k Ultra HD TVs
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Accessories
+[WARNING] Failed to import product_cat Action Games
+[WARNING] Failed to import product_cat All in One
+[WARNING] Failed to import product_cat Audio
+[WARNING] Failed to import product_cat Audio Speakers
+[WARNING] Failed to import product_cat Blue-ray Players
+[WARNING] Failed to import product_cat Cables
+[WARNING] Failed to import product_cat Cameras
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Chargers
+[WARNING] Failed to import product_cat Computer Accessories
+[WARNING] Failed to import product_cat Computer Cases
+[WARNING] Failed to import product_cat Computer Monitors
+[WARNING] Failed to import product_cat Computers
+[WARNING] Failed to import product_cat Covers
+[WARNING] Failed to import product_cat Curved TVs
+[WARNING] Failed to import product_cat Desktop Computers
+[WARNING] Failed to import product_cat Desktop PCs &amp; Laptops
+[WARNING] Failed to import product_cat Desktop PCs &amp; Laptops
+[WARNING] Failed to import product_cat DVD Players
+[WARNING] Failed to import product_cat Earbuds and In-ear
+[WARNING] Failed to import product_cat Featured Phones
+[WARNING] Failed to import product_cat Featured Tablets
+[WARNING] Failed to import product_cat Game Consoles
+[WARNING] Failed to import product_cat Gaming
+[WARNING] Failed to import product_cat Holders
+[WARNING] Failed to import product_cat Home &amp; Audio Enternteinment
+[WARNING] Failed to import product_cat Home &amp; Audio Enternteinment
+[WARNING] Failed to import product_cat Laptops
+[WARNING] Failed to import product_cat LED TVs
+[WARNING] Failed to import product_cat Mobile Phones
+[WARNING] Failed to import product_cat Mobiles Accesories
+[WARNING] Failed to import product_cat OLED TVs
+[WARNING] Failed to import product_cat Portable Audio
+[WARNING] Failed to import product_cat Powerbanks
+[WARNING] Failed to import product_cat Powerbanks
+[WARNING] Failed to import product_cat Printers
+[WARNING] Failed to import product_cat Racing Games
+[WARNING] Failed to import product_cat Smart TVs
+[WARNING] Failed to import product_cat Station Consoles
+[WARNING] Failed to import product_cat Tablet Accesories
+[WARNING] Failed to import product_cat Tablet Accessories
+[WARNING] Failed to import product_cat Tablet PCs
+

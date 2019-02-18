@@ -1,0 +1,12 @@
+2019-01-27T22:00:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-includes\wp-db.php en la línea 1924
+
+2019-01-27T22:04:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-includes\wp-db.php en la línea 1924
+
+2019-01-27T22:10:45+00:00 CRITICAL Uncaught Exception: fetch - <b>Table 'db-americana.wp_revslider_sliders' doesn't exist</b><br>---<br> Query: select * from wp_revslider_sliders where `type` != &#039;template&#039; OR `type` IS NULL order by id ASC in C:\xampp\htdocs\americana\wp-content\plugins\revslider\includes\framework\functions.class.php:14
+Stack trace:
+#0 C:\xampp\htdocs\americana\wp-content\plugins\revslider\includes\framework\db.class.php(26): RevSliderFunctions::throwError('fetch - <b>Tabl...', -1)
+#1 C:\xampp\htdocs\americana\wp-content\plugins\revslider\includes\framework\db.class.php(41): RevSliderDB->throwError('fetch - <b>Tabl...')
+#2 C:\xampp\htdocs\americana\wp-content\plugins\revslider\includes\framework\db.class.php(145): RevSliderDB->checkForErrors('fetch')
+#3 C:\xampp\htdocs\americana\wp-content\plugins\revslider\includes\slider.class.php(2980): RevSliderDB->fetch('wp_revslider_sl...', '`type` != 'temp...', 'id', '', 'ASC')
+#4 C:\xampp\htdocs\americana\wp-content\plugins\electro-extensions\modules\js_composer\config\map.p en C:\xampp\htdocs\americana\wp-content\plugins\revslider\includes\framework\functions.class.php en la línea 14
+

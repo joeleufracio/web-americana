@@ -1,0 +1,8 @@
+2019-02-02T19:17:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\plugins\contact-form-7\modules\date.php en la línea 9
+
+2019-02-02T19:17:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\plugins\electro-extensions\modules\js_composer\js_composer.php en la línea 9
+
+2019-02-02T19:17:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\themes\electro\inc\functions\homepages\home-mobile-v2.php en la línea 5
+
+2019-02-02T19:19:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-includes\Requests\Transport\cURL.php en la línea 441
+

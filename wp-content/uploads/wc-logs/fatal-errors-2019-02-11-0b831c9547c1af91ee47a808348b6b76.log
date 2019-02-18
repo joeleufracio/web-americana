@@ -1,0 +1,12 @@
+2019-02-11T04:06:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-includes\widgets\class-wp-widget-links.php en la línea 17
+
+2019-02-11T04:06:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\themes\electro\inc\ocdi\functions.php en la línea 3
+
+2019-02-11T04:08:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\themes\electro\inc\redux-framework\options\navigation-options.php en la línea 7
+
+2019-02-11T04:08:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\plugins\woocommerce\includes\wc-template-functions.php en la línea 16
+
+2019-02-11T04:09:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\plugins\contact-form-7\modules\date.php en la línea 9
+
+2019-02-11T18:29:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\plugins\contact-form-7\modules\recaptcha.php en la línea 3
+

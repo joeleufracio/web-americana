@@ -1,0 +1,28 @@
+2019-02-14T01:21:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\classes\ActionScheduler_wpCommentLogger.php en la línea 6
+
+2019-02-14T14:44:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-includes\functions.php en la línea 1671
+
+2019-02-14T18:11:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\themes\electro\inc\woocommerce\classes\class-electro-products.php en la línea 6
+
+2019-02-14T18:12:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\themes\electro\inc\widgets\class-electro-products-carousel-widget.php en la línea 12
+
+2019-02-14T18:12:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-includes\wp-db.php en la línea 1924
+
+2019-02-14T18:12:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\plugins\one-click-demo-import\inc\ImportActions.php en la línea 11
+
+2019-02-14T18:12:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\plugins\one-click-demo-import\vendor\proteusthemes\wp-content-importer-v2\src\WXRImporter.php en la línea 4
+
+2019-02-14T18:13:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-includes\wp-db.php en la línea 1924
+
+2019-02-14T18:19:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-includes\Requests\Transport\cURL.php en la línea 163
+
+2019-02-14T18:19:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-includes\Requests\Transport\cURL.php en la línea 163
+
+2019-02-14T18:19:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-includes\Requests\Transport\cURL.php en la línea 163
+
+2019-02-14T18:19:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-includes\Requests\Transport\cURL.php en la línea 163
+
+2019-02-14T18:19:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-includes\Requests\Transport\cURL.php en la línea 163
+
+2019-02-14T18:19:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-includes\Requests\Transport\cURL.php en la línea 163
+

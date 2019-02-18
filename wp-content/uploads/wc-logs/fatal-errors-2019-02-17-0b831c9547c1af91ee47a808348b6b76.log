@@ -1,0 +1,6 @@
+2019-02-17T01:30:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\themes\electro\inc\admin\meta-boxes\class-electro-meta-box-home-v2.php en la línea 9
+
+2019-02-17T07:16:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-includes\wp-db.php en la línea 1924
+
+2019-02-17T16:21:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\americana\wp-content\themes\electro\inc\redux-framework\functions\footer-functions.php en la línea 6
+
